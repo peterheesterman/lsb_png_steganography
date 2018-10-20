@@ -1,0 +1,6 @@
+[package]
+name = "lsb_png_steganography"
+version = "0.1.0"
+authors = ["Peter Heesterman <heesterman.peter@gmail.com>"]
+
+[dependencies]
