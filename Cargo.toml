@@ -3,5 +3,12 @@ name = "lsb_png_steganography"
 version = "0.1.0"
 authors = ["Peter Heesterman <heesterman.peter@gmail.com>"]
 
+description = "Least significant bit portable network graphic steganography"
+repository = "https://github.com/peterheesterman/lsb_png_steganography"
+readme = "./README.md"
+keywords = ["steganography", "png", "steg", "hiding"]
+categories = ["command-line-interface", "encoding", "multimedia::images"]
+license = "MIT"
+
 [dependencies]
-image = "*"
+image = "0.20"
